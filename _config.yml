@@ -16,6 +16,13 @@ header:
     - label: Home
       url: /
       style: link
+    - label: lorem-ipsum
+      url: '#'
+      style: link
+      icon_class: dev
+      new_window: false
+      no_follow: false
+      type: action
     - label: About
       url: /about
       style: link
@@ -25,13 +32,6 @@ header:
     - label: Contact
       url: /contact
       style: link
-    - label: lorem-ipsum
-      url: '#'
-      style: link
-      icon_class: dev
-      new_window: false
-      no_follow: false
-      type: action
     - label: lorem-ipsum
       url: '#'
       style: link
