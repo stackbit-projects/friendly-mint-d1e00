@@ -10,7 +10,7 @@ header:
   tagline: Minimal and clean blog theme
   logo_img: images/logo-16x4.jpg
   logo_img_alt: Albirar logo
-  background_img: images/header-bg.jpg
+  background_img: images/foto original.jpg
   has_nav: true
   nav_links:
     - label: Home
