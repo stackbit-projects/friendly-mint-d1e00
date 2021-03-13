@@ -16,7 +16,7 @@ header:
     - label: Home
       url: /
       style: link
-    - label: lorem-ipsum
+    - label: Education
       url: '#'
       style: link
       icon_class: dev
